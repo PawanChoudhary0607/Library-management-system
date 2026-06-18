@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MEM-0001",
+    "name": "Aditi Sharma",
+    "email": "aditi.sharma@example.com",
+    "phone": "9876543210",
+    "membershipDate": "2025-01-10",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "MEM-0002",
+    "name": "Rohan Verma",
+    "email": "rohan.verma@example.com",
+    "phone": "9876500000",
+    "membershipDate": "2025-03-22",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "MEM-0003",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "9876511111",
+    "membershipDate": "2024-11-05",
+    "status": "ACTIVE"
+  }
+]

@@ -1,0 +1,64 @@
+[ {
+  "id" : "TXN-0001",
+  "bookId" : "BOOK-0004",
+  "memberId" : "MEM-0001",
+  "issueDate" : "2026-06-10",
+  "dueDate" : "2026-06-24",
+  "returnDate" : null,
+  "fineAmount" : 0,
+  "status" : "ISSUED"
+}, {
+  "id" : "TXN-0002",
+  "bookId" : "BOOK-0001",
+  "memberId" : "MEM-0002",
+  "issueDate" : "2026-05-20",
+  "dueDate" : "2026-06-03",
+  "returnDate" : null,
+  "fineAmount" : 0,
+  "status" : "ISSUED"
+}, {
+  "id" : "TXN-0003",
+  "bookId" : "BOOK-0003",
+  "memberId" : "MEM-0003",
+  "issueDate" : "2026-05-01",
+  "dueDate" : "2026-05-15",
+  "returnDate" : "2026-05-14",
+  "fineAmount" : 0,
+  "status" : "RETURNED"
+}, {
+  "id" : "TXN-0004",
+  "bookId" : "BOOK-0006",
+  "memberId" : "MEM-0001",
+  "issueDate" : "2026-04-01",
+  "dueDate" : "2026-04-15",
+  "returnDate" : "2026-04-20",
+  "fineAmount" : 25,
+  "status" : "RETURNED"
+}, {
+  "id" : "TXN-fc816ed2-5c46-49a1-a436-05eff4b43567",
+  "bookId" : "BOOK-0004",
+  "memberId" : "MEM-0001",
+  "issueDate" : "2026-06-18",
+  "dueDate" : "2026-07-02",
+  "returnDate" : "2026-06-18",
+  "fineAmount" : 0,
+  "status" : "RETURNED"
+}, {
+  "id" : "TXN-3208ea8d-d776-4808-916e-de913b5a2dcf",
+  "bookId" : "BOOK-0004",
+  "memberId" : "MEM-0001",
+  "issueDate" : "2026-06-18",
+  "dueDate" : "2026-07-02",
+  "returnDate" : "2026-06-18",
+  "fineAmount" : 0,
+  "status" : "RETURNED"
+}, {
+  "id" : "TXN-36422a83-a45c-4322-b2aa-850c3d70df28",
+  "bookId" : "BOOK-0003",
+  "memberId" : "MEM-0002",
+  "issueDate" : "2026-06-18",
+  "dueDate" : "2026-07-02",
+  "returnDate" : "2026-06-18",
+  "fineAmount" : 0,
+  "status" : "RETURNED"
+} ]

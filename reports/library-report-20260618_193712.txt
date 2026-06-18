@@ -1,0 +1,17 @@
+============================================================
+Library Statistics Report
+Generated: 2026-06-18 19:37:12
+============================================================
+
+Total books: 8
+Total members: 3
+Total transactions: 5
+Active loans: 2
+Overdue loans: 1
+Total fines collected: 25
+
+Top borrowed books:
+  Clean Code - borrowed 2 time(s)
+  Steve Jobs - borrowed 1 time(s)
+  The Great Gatsby - borrowed 1 time(s)
+  A Brief History of Time - borrowed 1 time(s)
