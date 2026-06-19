@@ -1,0 +1,73 @@
+[ {
+  "id" : "BOOK-0001",
+  "isbn" : "9780743273565",
+  "title" : "The Great Gatsby",
+  "author" : "F. Scott Fitzgerald",
+  "category" : "FICTION",
+  "totalCopies" : 3,
+  "availableCopies" : 2,
+  "available" : true
+}, {
+  "id" : "BOOK-0002",
+  "isbn" : "9780062316097",
+  "title" : "Sapiens: A Brief History of Humankind",
+  "author" : "Yuval Noah Harari",
+  "category" : "NON_FICTION",
+  "totalCopies" : 5,
+  "availableCopies" : 5,
+  "available" : true
+}, {
+  "id" : "BOOK-0003",
+  "isbn" : "9780553380163",
+  "title" : "A Brief History of Time",
+  "author" : "Stephen Hawking",
+  "category" : "SCIENCE",
+  "totalCopies" : 2,
+  "availableCopies" : 2,
+  "available" : true
+}, {
+  "id" : "BOOK-0005",
+  "isbn" : "9780393317558",
+  "title" : "Guns, Germs, and Steel",
+  "author" : "Jared Diamond",
+  "category" : "HISTORY",
+  "totalCopies" : 3,
+  "availableCopies" : 3,
+  "available" : true
+}, {
+  "id" : "BOOK-0006",
+  "isbn" : "9781451648539",
+  "title" : "Steve Jobs",
+  "author" : "Walter Isaacson",
+  "category" : "BIOGRAPHY",
+  "totalCopies" : 2,
+  "availableCopies" : 2,
+  "available" : true
+}, {
+  "id" : "BOOK-0007",
+  "isbn" : "9780064400558",
+  "title" : "Charlotte's Web",
+  "author" : "E. B. White",
+  "category" : "CHILDREN",
+  "totalCopies" : 6,
+  "availableCopies" : 6,
+  "available" : true
+}, {
+  "id" : "BOOK-0008",
+  "isbn" : "9780199571123",
+  "title" : "Oxford Dictionary of English",
+  "author" : "Oxford University Press",
+  "category" : "REFERENCE",
+  "totalCopies" : 1,
+  "availableCopies" : 1,
+  "available" : true
+}, {
+  "id" : "BOOK-0004",
+  "isbn" : "9780132350884",
+  "title" : "Clean Code",
+  "author" : "Robert C. Martin",
+  "category" : "TECHNOLOGY",
+  "totalCopies" : 4,
+  "availableCopies" : 3,
+  "available" : true
+} ]
