@@ -156,5 +156,5 @@ Seed data is included — runs immediately after cloning.
 
 **Pawan Choudhary** · B.Tech CSE (AI/ML)
 [GitHub](https://github.com/PawanChoudhary0607)
-
+[Linkedin](www.linkedin.com/in/pawan-choudhary-a61a61383)
 </div>
